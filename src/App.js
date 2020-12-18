@@ -34,7 +34,7 @@ function App() {
           });
           setTimeout(() => {
             console.log("ok");
-            window.location.replace("http://www.w3schools.com");
+            window.location.replace("https://oyasumy.github.io/admin-bs-p2");
           }, 1500);
         } else {
           Swal.fire({
